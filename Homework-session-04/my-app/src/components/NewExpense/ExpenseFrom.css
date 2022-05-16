@@ -1,0 +1,22 @@
+.new-expense__form-controlls {
+    align-items: flex-end;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.new-expense__form-controll input {
+    padding: .5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+}
+
+
+.new-expense__form-controll label {
+    font-weight: bold;
+    margin-bottom: .5rem;
+    display: block;
+}
